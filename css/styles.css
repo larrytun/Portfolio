@@ -1,11 +1,12 @@
 body{
     background-color: #E1E3E4;
+    font-family: helvetica;
 }
 .name{
     color: #313131;
     text-align: center;
     margin-top: 40px;
-    border-bottom: double 4px #66CC99
+    border-bottom: double 4px #66CC99;
 }
 
 h1{
@@ -17,6 +18,9 @@ h1{
     width: 26%;
     margin-left: 37%;
     margin-top: 4%;
+    border: solid 5px #3F86C4;
+    padding: 5px;
+
 }
 
 .container {
@@ -70,5 +74,9 @@ h4{
 
 .bottom {
   font-size: 18px;
-  
+}
+
+.code img {
+  float: left;
+  width:12%;
 }
