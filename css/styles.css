@@ -58,3 +58,17 @@ h4{
   list-style: none;
   margin-right: 9%;
 }
+
+.why {
+  font-size: 35px;
+  text-shadow: 3px 3px pink;
+}
+
+.ld {
+  text-decoration: underline;
+}
+
+.bottom {
+  font-size: 18px;
+  
+}
