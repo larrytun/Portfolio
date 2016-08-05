@@ -1,0 +1,36 @@
+body{
+    background-color: #E1E3E4;
+}
+.name{
+    color: #313131;
+    text-align: center;
+    margin-top: 40px;
+}
+
+h1{
+  font-size: 60px;
+}
+
+.picture img {
+    width: 26%;
+    margin-left: 37%;
+    margin-top: 4%;
+}
+
+.container {
+  margin-top: 5%;
+  align-items: center;
+  text-align: center;
+}
+
+.check {
+  color: #66CC99;
+  text-align: center;
+  margin-top: 5%;
+  border-bottom: double 4px #66CC99;
+  border-top: double 4px #66CC99;
+}
+
+h4{
+  font-size: 50px;
+}
