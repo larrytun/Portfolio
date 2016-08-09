@@ -17,7 +17,7 @@ _This is my first solo project for Epicodus. It is a complete portfolio of all t
 
 ## Known Bugs
 
-_When initialy cloned to gh-pages the site would not display any of the styling used through styles.css and bootstrap. THe problem seems to have fixed itself_
+_When initialy cloned to gh-pages the site would not display any of the styling used through styles.css and bootstrap. The problem is fixed now_
 
 ## Support and contact details
 
